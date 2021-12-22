@@ -1,4 +1,6 @@
 # Credits
+https://mystery.knightlab.com/
+
 The SQL Murder Mystery was created by Joon Park and Cathy He while they were Knight Lab fellows. See the GitHub repository for more information.
 
 Adapted and produced for the web by Joe Germuska.
